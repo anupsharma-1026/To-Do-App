@@ -8,10 +8,14 @@ HTML 5, JavaScript, CSS 3,React JS, Node JS, Express JS, Mongo DB( Rest API), Po
 
 -cd backend 
 -npm i 
+
 -npm run server  
+
 # For Frontend  
 -cd todoapp 
+
 -npm i 
+
 -npm start 
 
 Output Screens :-
